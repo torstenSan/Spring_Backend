@@ -9,5 +9,4 @@ public class AmaMindAppDbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AmaMindAppDbApplication.class, args);
 	}
-
 }
